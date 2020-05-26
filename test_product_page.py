@@ -3,7 +3,7 @@ from pages.basket_page import BasketPage
 from pages.login_page import LoginPage
 import pytest, faker
 '''
-чтобы сработало нужна библиотека faker
+для фейкового мэйла нужна библиотека faker
 pip install faker
 '''
 
