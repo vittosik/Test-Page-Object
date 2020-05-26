@@ -2,6 +2,10 @@ from pages.product_page import ProductPage
 from pages.basket_page import BasketPage
 from pages.login_page import LoginPage
 import pytest, faker
+'''
+чтобы сработало нужна библиотека faker
+pip install faker
+'''
 
 link = "http://selenium1py.pythonanywhere.com/en-gb/catalogue/the-city-and-the-stars_95/"
 url = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
